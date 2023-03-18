@@ -1,0 +1,144 @@
+body {
+    width: 100%;
+}
+
+.xet-1 {
+    width: 340px !important;
+    border: 1px solid #dbdbdb !important;
+    transform: translate(-444px, -28px) !important;
+}
+
+.xet-2 {
+    width: 305px !important;
+    border: 1px solid #dbdbdb !important;
+    transform: translate(466px, -28px) !important;
+}
+
+.transfor {
+    transform: translateX(22px);
+}
+
+.zibil {
+    transform: translate(424px, -168px);
+    display: block;
+}
+
+.webb {
+    border: 1px solid black;
+    height: 50px;
+    width: 90px;
+    background-color: black;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 400px;
+}
+
+.buyy {
+    border: 1px solid forestgreen;
+    height: 50px;
+    width: 90px;
+    background-color: forestgreen;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 330px;
+}
+
+.ox:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+.web {
+    overflow: hidden;
+}
+
+.buy {
+    overflow: hidden;
+}
+
+.qab:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+.xet-11 {
+    width: 421px !important;
+    border: 1px solid #dbdbdb !important;
+    transform: translate(-396px, -28px) !important;
+}
+
+.xet-22 {
+    width: 381px !important;
+    border: 1px solid #dbdbdb !important;
+    transform: translate(418px, -28px) !important;
+}
+
+.uzun {
+    width: 97% !important;
+    border: 1px solid #dbdbbd;
+    margin-left: 12px;
+}
+.qaraa {
+    background-color: #333333;
+    height: 350px !important;
+}
+.webb {
+    border: 1px solid black;
+    height: 50px;
+    width: 90px;
+    background-color: black;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 400px;
+}
+
+.buyy {
+    border: 1px solid forestgreen;
+    height: 50px;
+    width: 90px;
+    background-color: forestgreen;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 330px;
+}
+
+.ox:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+.web {
+    overflow: hidden;
+}
+
+.buy {
+    overflow: hidden;
+}
+.qab:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}

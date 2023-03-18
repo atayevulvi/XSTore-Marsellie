@@ -1,0 +1,50 @@
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.olcu {
+    font-size: 14px;
+}
+
+.ss {
+    transform: translateX(55px);
+}
+
+.qlobus {
+    transform: translateX(-15px);
+}
+
+.h-20 {
+    height: 20px !important;
+}
+.shop {
+    border: 1px solid white;
+    height: 50px;
+    background-color: white;
+    width: 170px !important;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.teq {
+    transform: translateX(10px);
+}
+
+.teq:hover {
+    transform: translateX(33px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+.sekil2{
+    transform: translateX(150px);
+}
+.alti{
+    transform: translateX(35px);
+}
+.text{
+    text-decoration: line-through;
+}

@@ -1,0 +1,226 @@
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.arxa {
+    background-color: #ebe6e3;
+}
+
+.marsel {
+    transform: translateX(-80px);
+}
+
+.teq {
+    font-size: 20px;
+}
+
+.qara {
+    background-color: #333333;
+    height: 150px;
+    transform: translateY(-94px);
+}
+
+.qaraa {
+    background-color: #333333;
+    height: 350px !important;
+}
+
+.ucc {
+    transform: translateX(10px);
+}
+
+.ucc1 {
+    transform: translateX(22px);
+}
+
+.ucc2 {
+    transform: translateX(32px);
+}
+
+.xet-11 {
+    width: 280px !important;
+    border: 1px solid black !important;
+    transform: translate(-414px, -28px) !important;
+}
+
+.xet-22 {
+    width: 245px !important;
+    border: 1px solid black !important;
+    transform: translate(431px, -28px) !important;
+}
+
+.transfor {
+    transform: translateX(22px);
+}
+
+.sekil-11:hover {
+    display: none;
+}
+
+.sekil-1:hover {
+    background-image: url('https://v9m6d2m2.rocketcdn.me/elementor2/marseille04/wp-content/uploads/sites/2/2022/12/Image-1.2-min-285x340.jpg');
+    background-size: cover;
+    display: block;
+
+}
+
+.w-40 {
+    width: 40% !important;
+}
+
+.read:hover {
+    background-color: #333 !important;
+    color: white;
+}
+
+.zibil {
+    transform: translate(424px, -168px);
+    display: block;
+}
+
+.webb {
+    border: 1px solid black;
+    height: 50px;
+    width: 90px;
+    background-color: black;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 400px;
+}
+
+.buyy {
+    border: 1px solid forestgreen;
+    height: 50px;
+    width: 90px;
+    background-color: forestgreen;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 330px;
+}
+
+.ox:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+.web {
+    overflow: hidden;
+}
+
+.buy {
+    overflow: hidden;
+}
+
+.qab:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+@media (min-width:400px) and (max-width:768px) {
+
+    .uc-xett {
+        transform: translate(-50px, -7px);
+    }
+
+    .marsel11 {
+        transform: translate(134px, -58px);
+        width: 223px;
+    }
+
+    .zibil-masni {
+        transform: translate(419px, -102px);
+    }
+
+    .xstore {
+        transform: translate(55px, 70px);
+        width: 246px;
+    }
+
+    .beatiful {
+        transform: translate(86px, 72px);
+    }
+
+    .to-shop {
+        transform: translate(53px, 100px);
+        width: 140px !important;
+    }
+
+    .qara-1 {
+        transform: translate(0px, 250px);
+        height: 405px;
+    }
+
+    .kamaz {
+        transform: translateX(-46pxpx);
+    }
+    .kartt{
+        transform: translateX(50px);
+    }
+
+    .velcome {
+        transform: translate(-14px, 313px);
+    }
+
+    .acqii {
+        transform: translateY(320px);
+    }
+
+    .oglan {
+        transform: translate(10px, 10px);
+    }
+
+    .oglan1 {
+        transform: translateY(10px);
+    }
+
+    .altii {
+        transform: translateY(330px);
+    }
+
+    .yedii {
+        transform: translateY(300px);
+    }
+
+    .burug {
+        transform: translateY(53px);
+    }
+
+    .sale {
+        width: 440px !important;
+        font-size: 40px;
+        transform: translate(42px, 10px);
+    }
+
+    .libero {
+        width: 397px !important;
+        font-size: 21px;
+        transform: translate(-29px.10px);
+    }
+
+    .readm {
+        transform: translate(-50px, 24px);
+        width: 140px !important;
+        height: 50px;
+    }
+
+    .qara-reng {
+        transform: translate(1px, 413px);
+    }
+
+    .goy-reng {
+        transform: translate(10px, 404px);
+    }
+}

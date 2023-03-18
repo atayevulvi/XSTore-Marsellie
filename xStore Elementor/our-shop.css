@@ -1,0 +1,75 @@
+body {
+    width: 100%;
+}
+
+.ucc {
+    transform: translateX(10px);
+}
+
+.ucc1 {
+    transform: translateX(22px);
+}
+
+.ucc2 {
+    transform: translateX(32px);
+}
+.sizee {
+    font-size: 13px;
+}
+.qaraa {
+    background-color: #333333;
+    height: 350px !important;
+}
+.zibil {
+    transform: translate(424px, -168px);
+    display: block;
+}
+
+.webb {
+    border: 1px solid black;
+    height: 50px;
+    width: 90px;
+    background-color: black;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 400px;
+}
+
+.buyy {
+    border: 1px solid forestgreen;
+    height: 50px;
+    width: 90px;
+    background-color: forestgreen;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 330px;
+}
+
+.ox:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
+
+.web {
+    overflow: hidden;
+}
+
+.buy {
+    overflow: hidden;
+}
+.qab:hover {
+    transform: translateX(-60px);
+    overflow: hidden;
+    transition-duration: 1s;
+    opacity: 0;
+}
